@@ -1,0 +1,6 @@
+{
+  "name": "Request Delivery — AI Logistics Platform",
+  "description": "On-demand logistics marketplace and AI-native operating platform connecting shippers with verified multi-vehicle drivers with live tracking and settlement automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
